@@ -1,4 +1,4 @@
-# <center>Dfinity白皮书</center>	
+<center><h1>Dfinity白皮书</h1></center>	
 
 <center>——The Internet Computer for Geeks(v1.2)</center>			 
 
@@ -8,43 +8,13 @@
 
 <center>译者：方俊伟，袁博南</center>																						
 
-<center href="https://github.com/COS666/Dfinity-Whitepaper-Chinese-Version">Github Repo</center>
+<center><a href="https://github.com/COS666/Dfinity-Whitepaper-Chinese-Version" title="Github Repo">Github Repo</a></center>
 
-#### <center>**摘要**</center>	
+<center><h4>摘要</h4></center>	
 
 智能合约是一种新的软件形式，它将彻底改变软件的编写方式、IT 系统的维护方式，以及应用程序及整体业务的构建方式。智能合约是在去中心化区块链上运行的可组合且自治的软件部件，这使得它们无法被篡改和停止。在本文中，我们将介绍互联网计算机(以下简称IC)，作为一种全新的区块链设计，IC摆脱了智能合约在传统区块链上的速度、存储成本和计算能力方面的限制，使智能合约的全部潜力得以释放。IC首次允许智能合约实现完全的去中心化，使得前端到后端都能被托管在区块链上。 IC 由一组加密协议组成，这些协议将独立运行的节点相互连接以组成一个区块链的集合。这些区块链托管并执行"储罐(Canister)"，即 IC上的智能合约。储罐可以存储数据，对数据进行通用计算，并提供完整的技术栈，从而直接为终端用户提供网络服务。计算和存储开销采用“反向GAS模型”，这里需要储罐开发人员将IC 的原生代币ICP兑换成cycles进行预付。ICP代币同时也用于治理：IC由去中心化自治组织（以下简称DAO）进行管理，DAO决定变更IC的网络拓扑结构和升级IC协议。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [TOC]
-
-
-
-
-
-
-
-
 
 ## 1 引言
 
